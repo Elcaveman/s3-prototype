@@ -1,0 +1,14 @@
+s3:
+  buckets:
+    bucket1:
+      secretKey: test
+      accessKey: tesst
+      bucketName: bucket
+      endpoint: https://test
+      region: to test
+    bucket2:
+      secretKey: test
+      accessKey: tesst
+      bucketName: bucket
+      endpoint: https://test
+      region: to test
